@@ -1,0 +1,92 @@
+﻿  Animation.cpp
+  AnimationChannel.cpp
+  Base.cpp
+  BoundingVolume.cpp
+  Camera.cpp
+  Constants.cpp
+  Curve.cpp
+  EncoderArguments.cpp
+  Effect.cpp
+  FBXSceneEncoder.cpp
+  FBXUtil.cpp
+  FileIO.cpp
+  Font.cpp
+  GLTFSceneEncoder.cpp
+  GPBFile.cpp
+  Glyph.cpp
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Base.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector4.inl(44,41): warning C4458: “x”的声明隐藏了类成员 (编译源文件 src\Curve.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector4.h(19,11): message : 参见“gameplay::Vector4::x”的声明 (编译源文件 src\Curve.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector4.inl(51,43): warning C4458: “x”的声明隐藏了类成员 (编译源文件 src\Curve.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector4.h(19,11): message : 参见“gameplay::Vector4::x”的声明 (编译源文件 src\Curve.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector2.inl(43,41): warning C4458: “x”的声明隐藏了类成员 (编译源文件 src\Curve.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector2.h(19,11): message : 参见“gameplay::Vector2::x”的声明 (编译源文件 src\Curve.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector2.inl(50,43): warning C4458: “x”的声明隐藏了类成员 (编译源文件 src\Curve.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector2.h(19,11): message : 参见“gameplay::Vector2::x”的声明 (编译源文件 src\Curve.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector3.inl(44,41): warning C4458: “x”的声明隐藏了类成员 (编译源文件 src\Curve.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector3.h(26,11): message : 参见“gameplay::Vector3::x”的声明 (编译源文件 src\Curve.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector3.inl(51,43): warning C4458: “x”的声明隐藏了类成员 (编译源文件 src\Curve.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector3.h(26,11): message : 参见“gameplay::Vector3::x”的声明 (编译源文件 src\Curve.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\FBXSceneEncoder.h(14,10): fatal error C1083: 无法打开包括文件: “fbxsdk.h”: No such file or directory (编译源文件 src\FBXSceneEncoder.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\FBXUtil.h(14,10): fatal error C1083: 无法打开包括文件: “fbxsdk.h”: No such file or directory (编译源文件 src\FBXUtil.cpp)
+  GPBDecoder.cpp
+  Animations.cpp
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\GLTFSceneEncoder.cpp(554,83): warning C4100: “gameNode”: 未引用的形参
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\GLTFSceneEncoder.cpp(554,66): warning C4100: “gltfNode”: 未引用的形参
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\GLTFSceneEncoder.cpp(559,82): warning C4100: “gameNode”: 未引用的形参
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\GLTFSceneEncoder.cpp(559,65): warning C4100: “gltfNode”: 未引用的形参
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\GLTFSceneEncoder.cpp(855,82): warning C4100: “gameModel”: 未引用的形参
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\GLTFSceneEncoder.cpp(855,64): warning C4100: “gltfMesh”: 未引用的形参
+  Heightmap.cpp
+  Image.cpp
+  Light.cpp
+  main.cpp
+  Material.cpp
+  MaterialParameter.cpp
+  Matrix.cpp
+  Mesh.cpp
+  MeshSubSet.cpp
+  Model.cpp
+  MeshPart.cpp
+  MeshSkin.cpp
+  Node.cpp
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\FBXSceneEncoder.h(14,10): fatal error C1083: 无法打开包括文件: “fbxsdk.h”: No such file or directory (编译源文件 src\main.cpp)
+  NormalMapGenerator.cpp
+  Object.cpp
+  Quaternion.cpp
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector4.inl(44,41): warning C4458: “x”的声明隐藏了类成员 (编译源文件 src\NormalMapGenerator.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector4.h(19,11): message : 参见“gameplay::Vector4::x”的声明 (编译源文件 src\NormalMapGenerator.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector4.inl(51,43): warning C4458: “x”的声明隐藏了类成员 (编译源文件 src\NormalMapGenerator.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector4.h(19,11): message : 参见“gameplay::Vector4::x”的声明 (编译源文件 src\NormalMapGenerator.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector2.inl(43,41): warning C4458: “x”的声明隐藏了类成员 (编译源文件 src\NormalMapGenerator.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector2.h(19,11): message : 参见“gameplay::Vector2::x”的声明 (编译源文件 src\NormalMapGenerator.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector2.inl(50,43): warning C4458: “x”的声明隐藏了类成员 (编译源文件 src\NormalMapGenerator.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector2.h(19,11): message : 参见“gameplay::Vector2::x”的声明 (编译源文件 src\NormalMapGenerator.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\GLTFSceneEncoder.cpp(1034): warning C4702: 无法访问的代码
+  Reference.cpp
+  ReferenceTable.cpp
+  Sampler.cpp
+  Scene.cpp
+  StringUtil.cpp
+  tiny_gltf.cc
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector3.inl(44,41): warning C4458: “x”的声明隐藏了类成员 (编译源文件 src\NormalMapGenerator.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector3.h(26,11): message : 参见“gameplay::Vector3::x”的声明 (编译源文件 src\NormalMapGenerator.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector3.inl(51,43): warning C4458: “x”的声明隐藏了类成员 (编译源文件 src\NormalMapGenerator.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector3.h(26,11): message : 参见“gameplay::Vector3::x”的声明 (编译源文件 src\NormalMapGenerator.cpp)
+  TMXSceneEncoder.cpp
+  TMXTypes.cpp
+  Transform.cpp
+  TTFFontEncoder.cpp
+  Vector2.cpp
+  Vector3.cpp
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector2.inl(43,41): warning C4458: “x”的声明隐藏了类成员 (编译源文件 src\TMXTypes.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector2.h(19,11): message : 参见“gameplay::Vector2::x”的声明 (编译源文件 src\TMXTypes.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector2.inl(50,43): warning C4458: “x”的声明隐藏了类成员 (编译源文件 src\TMXTypes.cpp)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\Vector2.h(19,11): message : 参见“gameplay::Vector2::x”的声明 (编译源文件 src\TMXTypes.cpp)
+  Vector4.cpp
+  Vertex.cpp
+  VertexElement.cpp
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\tiny_gltf.h(2943,17): warning C4018: “>=”: 有符号/无符号不匹配 (编译源文件 src\tiny_gltf.cc)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\tiny_gltf.h(2918,7): warning C4189: “buf”: 局部变量已初始化但不引用 (编译源文件 src\tiny_gltf.cc)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\tiny_gltf.h(3036,17): warning C4018: “>=”: 有符号/无符号不匹配 (编译源文件 src\tiny_gltf.cc)
+C:\Users\Administrator\Desktop\IxGame\tools\encoder\src\tiny_gltf.h(3011,7): warning C4189: “buf”: 局部变量已初始化但不引用 (编译源文件 src\tiny_gltf.cc)
