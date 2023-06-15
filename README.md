@@ -1,0 +1,2 @@
+# glTFEncoder
+为gameplay3d引擎添加GLTF文件格式的支持。tools/encoder目录下为格式转换器，samples目录下的gltfviewer为加载显示模型的程序。
